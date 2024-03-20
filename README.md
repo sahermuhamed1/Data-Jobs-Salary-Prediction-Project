@@ -64,9 +64,10 @@ Explore the Kaggle notebook used for this project [here](https://www.kaggle.com/
 
 ## Contact Information
 
-For inquiries or collaboration, feel free to reach out to the project contributors:
+### For inquiries or collaboration, feel free to reach out to the project contributors:-
 
+LinkedIn: [Here](https://www.linkedin.com/in/sahermuhamed/)
 
-- *Saher Mohammed:* [LinkedIn](https://www.linkedin.com/in/sahermuhamed/), Email: sahermuhamed176@gmail.com
+Email: sahermuhamed176@gmail.com
 
 Feel free to explore and enhance this project!
