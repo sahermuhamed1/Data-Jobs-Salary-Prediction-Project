@@ -3,7 +3,7 @@
 
 ### This project aims to predict if the Data Jobs Salary Predictiom Regression.
 
-#### *Implemented ML and Streamlit project leveraging a data job dataset to predict salaries for various data positions in USD. Utilized Decision Tree and Linear Regression models for accurate predictions. Deployed the model seamlessly into a Streamlit web app with an Explore page for data exploration and a Prediction page for forecasting salaries. Key features for prediction include job category, employee residence, experience level, employment type, company location, and company size.*
+#### *Implemented Machine Learning and Streamlit Web App project leveraging a data job dataset to predict salaries for various data positions in USD. Utilized Decision Tree and Linear Regression models for accurate predictions. Deployed the model seamlessly into a Streamlit web app with an Explore page for data exploration and a Prediction page for forecasting salaries. Key features for prediction include job category, employee residence, experience level, employment type, company location, and company size.*
 
 
 The project involves predicting salary categories based on various features using a pre-trained machine learning model. The following files are included:
