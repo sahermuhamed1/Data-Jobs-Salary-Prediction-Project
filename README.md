@@ -11,6 +11,7 @@ The project involves predicting salary categories based on various features usin
 - *Dataset:* Dataset containing unique values for different features.
 - *README.md:* This file with project documentation.
 - *Data_Salary_prediction.ipynb:* Jupyter Notebook with exploratory data analysis (EDA), data preprocessing, and model selection.
+-  *Data Science Salary.pbix*: a PBI dashboard that can help users to gain insights from the dataset
 - *saved_steps.pkl:* Pre-trained machine learning model stored as a pickle file.
 - *app.py:* Python script using Streamlit to create a web app for deploying the model.
 - *requirements.txt:* File specifying the project dependencies.
@@ -41,9 +42,11 @@ The project involves predicting salary categories based on various features usin
 
 2. The Python script (app.py) uses Streamlit to create a user-friendly web app for predicting salary categories based on user input.
 
-3. The pre-trained model (saved_steps.pkl) is used for making predictions in the web app.
+3. The PBI dashboard (Data Science Salary.pbix) is used for help the uses to gain insights that can aims to better data driven-decision making.
 
-4. Explore the dataset (dataset) for a better understanding of the data.
+5. The pre-trained model (saved_steps.pkl) is used for making predictions in the web app.
+
+6. Explore the dataset (dataset) for a better understanding of the data.
 
 ## Web App Usage
 
